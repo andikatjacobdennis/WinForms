@@ -1,4 +1,4 @@
-Here's a suggested Table of Contents (TOC) for a tutorial on Windows Forms (WinForms):
+Windows Forms (WinForms):
 
 ### Table of Contents
 
